@@ -1,0 +1,11 @@
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\obj\Debug\netcoreapp2.0\Examen3.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\obj\Debug\netcoreapp2.0\Examen3.AssemblyInfoInputs.cache
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\obj\Debug\netcoreapp2.0\Examen3.AssemblyInfo.cs
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\bin\Debug\netcoreapp2.0\Examen3.deps.json
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\bin\Debug\netcoreapp2.0\Examen3.runtimeconfig.json
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\bin\Debug\netcoreapp2.0\Examen3.runtimeconfig.dev.json
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\bin\Debug\netcoreapp2.0\Examen3.dll
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\bin\Debug\netcoreapp2.0\Examen3.pdb
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\obj\Debug\netcoreapp2.0\Examen3.dll
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\obj\Debug\netcoreapp2.0\Examen3.pdb
+C:\Users\Gerardo\Documents\SEBASTIAN\Tecnicas de programacion\Examen3\Examen3\obj\Debug\netcoreapp2.0\Examen3.csprojAssemblyReference.cache
